@@ -1,2 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wph6crgjdgbrp7psfokmoneeia&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6d84a2&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wph6crgjdgbrp7psfokmoneeia&redirect=true)
-![Visitor Count](https://komarev.com/ghpvc/?username=wd4px&label=meobel&style=flat-square)
+<iframe src="https://open.spotify.com/embed/track/6aS31g5Edrtf300gj6eLyP?utm_source=generator&theme=0" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=wp4dx&label=۶ৎ&color=000000&style=flat-square)
