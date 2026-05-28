@@ -1,3 +1,13 @@
+<div align="center">
+  <div style="background-color: #000000; display: inline-block; padding: 10px 14px; border-radius: 8px; line-height: 1;">
+    <div style="color: #ffffff; font-family: monospace; font-size: 14px; white-space: pre; margin-bottom: -2px;">╭‎ꫂ᭪┈╮</div>
+    <div style="margin: 0; padding: 0; display: inline-block; vertical-align: middle;">
+      <img src="https://komarev.com/ghpvc/?username=wq4dx&label=಄&color=000000&style=flat-square" style="display: block; margin: 0;">
+    </div>
+    <div style="color: #ffffff; font-family: monospace; font-size: 14px; white-space: pre; margin-top: -2px;">.୨╯</div>
+  </div>
+</div>
+
 <a href="https://open.spotify.com/track/6aS31g5Edrtf300gj6eLyP" style="text-decoration: none;">
   <table border="0" bgcolor="#000000" cellpadding="12" cellspacing="0">
     <tr>
@@ -17,5 +27,3 @@
 </a>
 
 <br>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=wp4dx&label=۶ৎ&color=000000&style=flat-square)
